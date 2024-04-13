@@ -911,7 +911,7 @@ Single Page
 .single-page {
 	background: var(--clr-grey-7);
 	/* height: 100vh; */
-	height: calc(100vh - 5rem - 100px);
+	height: calc(100vh - 5rem);
 	margin-bottom: 1rem;
 }
 .page-info {
