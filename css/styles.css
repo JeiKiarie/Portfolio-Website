@@ -910,7 +910,8 @@ Single Page
 */
 .single-page {
 	background: var(--clr-grey-7);
-	min-height: calc(100vh - 5rem - 198px);
+	/* height: 100vh; */
+	height: calc(100vh - 5rem - 198px);
 	margin-bottom: 1rem;
 }
 .page-info {
